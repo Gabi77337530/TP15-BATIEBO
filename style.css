@@ -1,0 +1,12 @@
+*{
+     padding: 0px;
+     margin: 0px;
+}
+header{
+     background-color: black;
+     height: 70px;
+}
+a{
+     text-decoration: solid;   
+     padding: 25px;
+}
